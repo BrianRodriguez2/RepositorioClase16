@@ -5,3 +5,5 @@ let nombre = Camila
 let hola = "Saludo a" + nombre
 
 console.log(hola + nombre);
+
+let hola2 = "Saludo a" + nombre
