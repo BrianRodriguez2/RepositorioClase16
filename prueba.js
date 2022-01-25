@@ -1,0 +1,1 @@
+let prueba = ["A", "B", "C"]
